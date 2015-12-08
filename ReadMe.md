@@ -1,0 +1,1 @@
+This script will quicken the time it takes to push your changes to github
